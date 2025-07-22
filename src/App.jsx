@@ -3,7 +3,7 @@ import Weather from './Components/Weather.jsx'
 
 const App = () => {
   return (
-    <div>
+    <div className='app'>
       <Weather/>
     </div>
   )
